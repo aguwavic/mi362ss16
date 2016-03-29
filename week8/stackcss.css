@@ -1,0 +1,130 @@
+@charset "UTF-8";
+
+
+
+
+/
+html {
+background-image:url(dark_embroidery.png)
+
+}
+
+body {
+	width: 761px;
+	margin: 1.5em auto; 
+	border-color: #8C25DB;
+	border-style: solid;
+	border-width: 10px;
+	padding: 50px;
+	background-color: #000;
+	color: #fff
+}
+
+#nav {
+	background-color: #000;
+	list-style-type: none;
+	border-style: solid;
+	border-color: #8C25DB;
+	border-width: 5px;
+	padding: 10px;
+	margin-right:-55px;
+	margin-left:-55px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, 			    Arial, sans-serif;
+	text-align:center;
+}
+#nav li{
+	display:inline;
+	
+	}
+#nav a {
+	
+	color: #8C25DB;
+	text-decoration: none;
+	font-weight: bolder;
+	padding: 10px;
+
+
+}
+#nav a:hover {
+	color: #fff;
+	text-decoration: underline;
+	font-weight: bolder;
+	background-color: #000;
+	border-radius:8px
+}
+#na a:visited {
+	color : #fff;
+	text-decoration: underline;
+		
+}
+h1 {
+	text-indent:10px;
+	background-color:#8C25DB;
+	color: #6795R2;
+	padding-left:5px;
+	margin-right:-55px;
+	margin-left:-55px;
+}
+
+h2 {
+	color: #8C25DB;
+}
+
+h3 {
+	color: #34B6B8;
+}
+
+
+img {
+	border-color: #8C25DB;
+	border-style: solid;
+	border-width: 5px;
+}
+
+
+
+a {
+  font-weight: bolder;
+  text-decoration: none;
+  color: #1887CC;
+}
+
+a:hover {
+	font-weight:bolder;
+	text-decoration:underline;
+	color : #fff;
+}
+
+a:visited {
+	color : #fff;
+	text-decoration:underline;
+}
+
+#me{
+	float:right;
+	margin-top:-60px;
+	margin-right: 10px;
+	border-radius:8px;
+	}
+
+
+
+#footer{
+	background-color:#8C25DB;
+	padding-top:10px;
+	padding-left:10px;
+	margin-top:90px;
+	margin-bottom:-70px;
+	margin-left:-50px;
+	margin-right:-50px;
+	color:#000;
+}
+
+#footer a{
+	color:#fff;
+}
+
+#footer a:visited{
+	text-decoration:underline;
+	color:#000;
+	}
