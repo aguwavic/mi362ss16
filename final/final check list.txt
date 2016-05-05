@@ -1,0 +1,14 @@
+300 - 4 complete HTML pages with content
+	Created 6 html pages that have content
+
+200 - Custom CSS or Bootstrap for design (all pages)
+	CSS file is used for all html pages
+
+100 - Use a Heroku button install (https://elements.heroku.com/buttons)
+	Used the deplor heroku button install on the home page
+
+50 - Integrate a JavaScript component
+	THere is a javascript alert button at the buttom of the home page
+
+50 - Use a 3rd party font icon like FontAwesome
+	I used the checkmarks icons from FontAwesome for the unodered list in my Concsct html psgr
